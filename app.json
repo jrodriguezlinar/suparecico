@@ -1,0 +1,8 @@
+{
+  "name": "suparecico",
+  "description": "DEl primi.",
+  "image": "heroku/python",
+  "repository": "hhttps://github.com/jrodriguezlinar/suparecico",
+  "keywords": ["python", "django" ],
+  "addons": [ "heroku-postgresql" ]
+}
